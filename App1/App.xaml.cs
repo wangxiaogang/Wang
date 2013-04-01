@@ -27,7 +27,9 @@ namespace App1
     {
         /// <summary>
         /// 小刚测试test
+        /// test冲突
         /// 冲突test
+        /// 123
         /// 初始化单一实例应用程序对象。这是执行的创作代码的第一行，
         /// 逻辑上等同于 main() 或 WinMain()。
         /// VS插件测试 test
